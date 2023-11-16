@@ -1,4 +1,4 @@
-p {
+p.styleRed {
   color: red;
   border: 5px solid red;
   font-family: courier;
