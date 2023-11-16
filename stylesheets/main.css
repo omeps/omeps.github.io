@@ -8,3 +8,12 @@ p.styleRed {
   width: 180px;
   text-align: center;
 }
+
+.button {
+    color: red
+    font-size: 20px;
+    border: 5px solid red;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
