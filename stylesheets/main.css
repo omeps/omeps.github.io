@@ -1,4 +1,5 @@
 p.styleRed {
+  border-radius: 25px;
   color: red;
   border: 5px solid red;
   font-family: courier;
